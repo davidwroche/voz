@@ -1,14 +1,14 @@
 {
   "name": "voz",
-  "version": "0.0.1",
-  "description": "Use Voz with Vue.js to manage console.log statement throughout your entire application. You can enable or disable them from your main Vue.js file. ",
+  "version": "0.0.2",
+  "description": "Use Voz with Vue.js to manage console.log statements throughout your entire application. You can enable or disable them from your main Vue.js file. ",
   "main": "voz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidwroche/vue-adblock.git"
+    "url": "git+https://github.com/davidwroche/voz.git"
   },
   "keywords": [
     "vue.js",
